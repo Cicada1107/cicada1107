@@ -1,6 +1,7 @@
 <div align="center">
 
-![Banner](https://i.pinimg.com/originals/80/3a/e1/803ae1bdafe8001853898720ef962dec.gif)
+<!-- ![Banner](https://i.pinimg.com/originals/80/3a/e1/803ae1bdafe8001853898720ef962dec.gif)>-->
+![Banner](https://github.com/Cicada1107/cicada1107/blob/main/readmeBanner.gif)
 
 # Arijit Dubey
 
@@ -109,7 +110,8 @@ CNCF LFX Mentorship &nbsp;·&nbsp; open-source collaboration on cloud-native and
 
 ---
 
-![End Banner](https://miro.medium.com/1*XBnNv6L8mN8mwrguvHzIqg.jpeg)
+<!--![End Banner](https://miro.medium.com/1*XBnNv6L8mN8mwrguvHzIqg.jpeg)-->
+![End Banner - Cicada 3301](https://github.com/Cicada1107/cicada1107/blob/main/end_banner.jpg)
 
 <div align="center">
 
