@@ -24,7 +24,7 @@ at the intersection of platform engineering and developer tooling.
 
 ## `</> What I'm Working On`
 
-- **Cloud-native infrastructure** — Kubernetes, GCP, containerized microservices
+- **Cloud-native infrastructure** — Kubernetes, GCP, containerized microservices. Prime focus: Container Runtimes and API Gateways
 - **Backend systems** — Python/FastAPI, Node.js, event-driven architectures with Kafka
 - **LFX Mentorship** — actively targeting CNCF project contributions; focused on projects in the orchestration and observability space
 
