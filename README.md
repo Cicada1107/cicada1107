@@ -99,7 +99,7 @@ Projects:
 
 - **University Rank 8** out of 225 students across 5 semesters (CGPA 9.01) — BIT Mesra ECE '27
 - **Top 10 nationally** (7th) — Capture the Flag hackathon, Pantheon '24
-- **LeetCode 1700+** · ~Global Rank 3000, Weekly Contest 496 · 450+ problems solved · 700+ across all platforms
+- **LeetCode 1890+** · ~Global Rank 2000, Weekly Contest 496 · 490+ problems solved · 700+ across all platforms
 - **Math Olympiad** — School Runner-up twice (Bronze + Silver medals)
 
 ---
