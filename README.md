@@ -16,7 +16,7 @@ at the intersection of platform engineering and developer tooling.
 [![Email](https://img.shields.io/badge/Email-arijit.dubey.bit%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arijit.dubey.bit@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arijit-dubey-85471028a/)
 [![GitHub](https://img.shields.io/badge/GitHub-cicada1107-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cicada1107)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1700%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arijitdubey2018)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1890%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arijitdubey2018)
 
 </div>
 
