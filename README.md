@@ -33,13 +33,29 @@ at the intersection of Low level systems and kernels.
 
 ## `</> Experience`
 
-Inndustry Work-Ex
+### Open Source Contributions
+
+#### Pull Requests
+
+| PR | Project | Status | Description |
+|:---|:--------|:------:|:------------|
+| [#765](https://github.com/urunc-dev/urunc/pull/765) | [urunc-dev/urunc](https://github.com/urunc-dev/urunc) | 🟡 Open | Migrate **urunc** to **containerd v2.x** and resolve breaking API changes. |
+| [#895](https://github.com/urunc-dev/urunc/pull/895) | [urunc-dev/urunc](https://github.com/urunc-dev/urunc) | 🟡 Open | Optimize CID hashing to reduce collisions for **vAccel-enabled Guest Unikontainers**. |
+| [#68](https://github.com/HieuTNg/touchpad-gesture-customization/pull/68) | [touchpad-gesture-customization](https://github.com/HieuTNg/touchpad-gesture-customization) | ✅ Merged | Added end-to-end media control gestures for Wayland/X11 Linux systems via a GNOME Shell extension. |
+
+#### Issues
+
+| Issue | Project | Status | Description |
+|:------|:--------|:------:|:------------|
+| [#750](https://github.com/urunc-dev/urunc/issues/750) | [urunc-dev/urunc](https://github.com/urunc-dev/urunc) | 🟡 Open | Reported a containerd v2 flag parsing bug caused by an older containerd-runc version used by the urunc shim. |
+
+### Industry Work-Ex
 --
 **Software Development Intern @ Travel & Payments Consulting (Remote, Singapore → On-site, Hyderabad)** <br/>
 Built production web and Flutter applications, designed reusable SDKs, implemented RBAC and notification infrastructure, and contributed to LLM-powered backend systems. <br/>
 Worked across TypseScript, Python, Next.js, FastAPI, Flutter, MongoDB, PostgreSQL, GCP
 
-Projects:
+### Projects:
 --
 - [**Reffer**](https://github.com/cicada1107/reffer): An open-source referral-finding SaaS with real-time WebSocket chat, PostgreSQL, Prisma ORM, and Cloudinary-backed file handling.
 - [**Danveer**](https://github.com/cicada1107/danveer): A Django-based NGO–donor platform with geolocation and role-based auth.
