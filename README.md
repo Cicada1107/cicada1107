@@ -1,17 +1,18 @@
 <div align="center">
 
 <!-- ![Banner](https://i.pinimg.com/originals/80/3a/e1/803ae1bdafe8001853898720ef962dec.gif)>-->
-![Banner](https://github.com/Cicada1107/cicada1107/blob/main/readmeBanner.gif)
+<!-- ![Banner](https://github.com/Cicada1107/cicada1107/blob/main/readmeBanner.gif) -->
+[Banner](https://github.com/Cicada1107/cicada1107/blob/main/no_place_like_home.jpeg)
 
 # Arijit Dubey
 
-**Cloud Infrastructure & Backend Engineer**
+**Cloud Infrastructure, Systems & Backend Engineer**
 
 BIT Mesra '27 &nbsp;·&nbsp; Kolkata, India
 
 I build distributed systems and cloud-native infrastructure. Currently exploring the CNCF ecosystem: <br/>
-container orchestration, service meshes, and observability stacks. Interested in contributing to projects<br/>
-at the intersection of platform engineering and developer tooling.
+container Runtimes, Workflows and pipelines. Interested in contributing to projects<br/>
+at the intersection of Low level systems and kernels.
 
 [![Email](https://img.shields.io/badge/Email-arijit.dubey.bit%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arijit.dubey.bit@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arijit-dubey-85471028a/)
@@ -24,15 +25,19 @@ at the intersection of platform engineering and developer tooling.
 
 ## `</> What I'm Working On`
 
-- **Cloud-native infrastructure** — Kubernetes, GCP, containerized microservices. Prime focus: Container Runtimes and API Gateways
-- **Backend systems** — Python/FastAPI, Node.js, event-driven architectures with Kafka
-- **LFX Mentorship** — actively targeting CNCF project contributions; focused on projects in the orchestration and observability space
+- **Systems Engineering** - Container Runtimes, Low Level Kernels, Sandboxing and Virtualization
+- **Cloud-native infrastructure** — Kubernetes, GCP, containerized microservices.
+- **Backend systems** — Python/FastAPI, Node.js, event-driven architectures
 
 ---
 
 ## `</> Experience`
 
-SDE Intern at **(Singapore-based) Travel & Payments Pte Ltd** (remote), where I maintain the GCP cloud architecture, built a permission-based RBAC system, and contributed to the core **Payments Expert Marketplace** — a FastAPI + LLM-integrated platform. Full Google Calendar API integration (GCP OAuth flow) shipped end-to-end.
+Inndustry Work-Ex
+--
+**Software Development Intern @ Travel & Payments Consulting (Remote, Singapore → On-site, Hyderabad)** <br/>
+Built production web and Flutter applications, designed reusable SDKs, implemented RBAC and notification infrastructure, and contributed to LLM-powered backend systems. <br/>
+Worked across TypseScript, Python, Next.js, FastAPI, Flutter, MongoDB, PostgreSQL, GCP
 
 Projects:
 --
@@ -55,11 +60,9 @@ Projects:
 **Cloud & Infrastructure**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![containerd](https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 **Backend**
 
@@ -67,8 +70,6 @@ Projects:
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
 **Data**
 
@@ -100,7 +101,7 @@ Projects:
 - **University Rank 8** out of 225 students across 5 semesters (CGPA 9.01) — BIT Mesra ECE '27
 - **Top 10 nationally** (7th) — Capture the Flag hackathon, Pantheon '24
 - **LeetCode 1890+** · ~Global Rank 2000, Weekly Contest 496 · 490+ problems solved · 700+ across all platforms
-- **Math Olympiad** — School Runner-up twice (Bronze + Silver medals)
+- **Math Olympiad** — School Runner-up twice (Silver, Bronze medals)
 
 ---
 
@@ -110,20 +111,11 @@ CNCF LFX Mentorship &nbsp;·&nbsp; open-source collaboration on cloud-native and
 
 ---
 
-<!--![End Banner](https://miro.medium.com/1*XBnNv6L8mN8mwrguvHzIqg.jpeg)-->
-![End Banner - Cicada 3301](https://github.com/Cicada1107/cicada1107/blob/main/end_banner.jpg)
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=cicada1107&style=for-the-badge&color=0e75b6)
-
-</div>
   
-<!-- Un-comment this section when you have better stats to show
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=cicada1107&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+<!-- ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=cicada1107&theme=dark&hide_border=true&include_all_commits=false&count_private=false) -->
 
 ![Streak](https://streak-stats.demolab.com/?user=cicada1107&theme=dark&hide_border=true)
 
@@ -132,4 +124,13 @@ CNCF LFX Mentorship &nbsp;·&nbsp; open-source collaboration on cloud-native and
 
 </div>
 
--->
+<!--![End Banner](https://miro.medium.com/1*XBnNv6L8mN8mwrguvHzIqg.jpeg)-->
+![End Banner - Cicada 3301](https://github.com/Cicada1107/cicada1107/blob/main/end_banner.jpg)
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=cicada1107&style=for-the-badge&color=0e75b6)
+
+</div>
+
+
