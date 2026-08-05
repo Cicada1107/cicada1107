@@ -2,7 +2,7 @@
 
 <!-- ![Banner](https://i.pinimg.com/originals/80/3a/e1/803ae1bdafe8001853898720ef962dec.gif)>-->
 <!-- ![Banner](https://github.com/Cicada1107/cicada1107/blob/main/readmeBanner.gif) -->
-[Banner](https://github.com/Cicada1107/cicada1107/blob/main/no_place_like_home.jpeg)
+![Banner](https://github.com/Cicada1107/cicada1107/blob/main/no_place_like_home)
 
 # Arijit Dubey
 
