@@ -32,6 +32,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Cicada1107/cicada1107/main/crt_terminal.svg" width="640" alt="booting kernel..."/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25"/>
+
 ## 🚀&nbsp; What I'm Working On
 
 <table>
