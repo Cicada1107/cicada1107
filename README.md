@@ -193,9 +193,9 @@ Flutter-based Android app to track college attendance, using Firebase for persis
 ## 🏆&nbsp; Notable
 
 <table>
-<tr><td>🎓</td><td><b>University Rank 8</b> out of 225 students across 5 semesters (CGPA 9.01) — BIT Mesra ECE '27</td></tr>
+<tr><td>🎓</td><td><b>University Rank 8</b> out of 225 students across 5 semesters (CGPA 9+/10) — BIT Mesra ECE '27</td></tr>
 <tr><td>🚩</td><td><b>Top 10 nationally</b> (7th) — Capture the Flag hackathon, Pantheon '24</td></tr>
-<tr><td>💻</td><td><b>LeetCode 1890+</b> · ~Global Rank 2000, Weekly Contest 496 · 490+ problems solved · 700+ across all platforms</td></tr>
+<tr><td>💻</td><td><b>LeetCode 1890+</b> · 500+ problems solved · 700+ across all platforms</td></tr>
 <tr><td>🥇</td><td><b>Math Olympiad</b> — School Runner-up twice (Silver, Bronze medals)</td></tr>
 </table>
 
